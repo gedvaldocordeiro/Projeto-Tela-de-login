@@ -91,7 +91,7 @@ div.campo > input{
     height: 100%;
     border: 0px;
     border-radius: 0px 8px 8px 0px;
-    transform: translate(45px, -42px);
+    transform: translate(45px, -42px); /* Gabiarra utilizada para centralizar o input dentro da div.campo */ 
 }
 
 div.campo > input:hover{
